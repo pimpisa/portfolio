@@ -10,7 +10,7 @@ img#image{
 	height:auto;
 	width:100%;
 }
-#content{
+.content{
 	height:750px;
 	width:100%;
 	margin-top:-10px;

@@ -7,9 +7,14 @@
 		<link href="css/style.css" rel="stylesheet">
 	</head>
 	<body>
-		<img id="image" src="images/bg1.jpg">
-		<div id="content">
+		<div class="content">
+			<img id="image" src="images/bg1.jpg">
+		</div>
+		<div class="content">
 		    <img id="image" src="images/bg2.jpg">
+		</div>
+		<div class="content">
+		    <img id="image" src="images/bg3.jpg">
 		</div>
 	</body>
 </html>
